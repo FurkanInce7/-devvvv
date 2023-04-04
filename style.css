@@ -1,0 +1,26 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background:black;
+}
+.başlık{
+    text-align: center;
+    color: white;
+    margin-top: 250px;
+}
+.başlık2{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    
+}
+.parag{
+    text-align: center;
+    color: white;
+
+}
+#myname{
+    color: white;
+    font-size: 30px;
+}
